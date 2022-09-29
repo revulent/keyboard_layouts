@@ -53,7 +53,7 @@
       "KC_ENT",
       "LT(4,KC_BSLS)",
       "MO(5)",
-      "KC_NO",
+      "NK_TOGG",
       "TG(1)"
     ],
     [
@@ -357,7 +357,7 @@
       "KC_TRNS"
     ],
     [
-      "KC_NO",
+      "KC_TRNS",
       "LCTL(KC_Q)",
       "LCTL(KC_W)",
       "LCTL(KC_E)",
@@ -368,8 +368,8 @@
       "LCTL(KC_I)",
       "LCTL(KC_O)",
       "LCTL(KC_P)",
-      "KC_NO",
-      "KC_NO",
+      "KC_TRNS",
+      "KC_TRNS",
       "LCTL(KC_A)",
       "LCTL(KC_S)",
       "LCTL(KC_D)",
@@ -380,8 +380,8 @@
       "LCTL(KC_J)",
       "LCTL(KC_K)",
       "LCTL(KC_SCLN)",
-      "KC_NO",
-      "KC_NO",
+      "KC_TRNS",
+      "KC_TRNS",
       "LCTL(KC_Z)",
       "LCTL(KC_X)",
       "LCTL(KC_C)",
@@ -392,7 +392,7 @@
       "LCTL(KC_COMM)",
       "LCTL(KC_DOT)",
       "LCTL(KC_SLSH)",
-      "KC_NO",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -401,10 +401,10 @@
       "KC_SPC",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO"
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
     ]
   ],
   "author": ""
